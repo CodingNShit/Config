@@ -1,0 +1,5 @@
+2025/10/21-20:54:03.145 5 Reusing MANIFEST /home/learncode/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2025/10/21-20:54:03.150 5 Recovering log #3
+2025/10/21-20:54:03.153 5 Reusing old log /home/learncode/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/000003.log 
+2025/10/21-20:56:44.225 5 Level-0 table #5: started
+2025/10/21-20:56:44.237 5 Level-0 table #5: 24287 bytes OK

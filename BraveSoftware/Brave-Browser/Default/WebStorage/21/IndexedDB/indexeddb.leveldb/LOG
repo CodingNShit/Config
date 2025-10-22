@@ -1,0 +1,6 @@
+2025/10/22-21:54:18.656 b4b Creating DB /home/learncode/.config/BraveSoftware/Brave-Browser/Default/WebStorage/21/IndexedDB/indexeddb.leveldb since it was missing.
+2025/10/22-21:54:18.710 b4b Reusing MANIFEST /home/learncode/.config/BraveSoftware/Brave-Browser/Default/WebStorage/21/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/22-22:04:23.908 b4f Level-0 table #5: started
+2025/10/22-22:04:23.916 b4f Level-0 table #5: 7608 bytes OK
+2025/10/22-22:04:23.927 b4f Delete type=0 #3
+2025/10/22-22:04:23.928 b4f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

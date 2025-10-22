@@ -1,0 +1,1 @@
+/home/learncode/.config/omarchy/current/theme/neovim.lua

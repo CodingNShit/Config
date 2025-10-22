@@ -1,0 +1,6 @@
+2025/10/22-15:44:02.772 38f6 Reusing MANIFEST /home/learncode/.config/BraveSoftware/Brave-Browser/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/22-15:44:02.772 38f6 Recovering log #3
+2025/10/22-15:44:02.772 38f6 Reusing old log /home/learncode/.config/BraveSoftware/Brave-Browser/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/10/22-15:44:39.131 3905 Level-0 table #5: started
+2025/10/22-15:44:39.179 3905 Level-0 table #5: 3159313 bytes OK
+2025/10/22-15:44:39.189 3905 Delete type=0 #3
